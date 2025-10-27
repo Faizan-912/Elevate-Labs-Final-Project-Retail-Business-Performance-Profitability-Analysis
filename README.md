@@ -88,7 +88,7 @@ Using a combination of *SQL, **Python, and **Tableau*, the project delivers data
 ## 🧩 Deliverables
 - ✅ SQL Queries (elevate_labs_sql.sql)  
 - ✅ Cleaned Dataset (cleaned_store_sales.xlsx)  
-- ✅ Python Notebook (Untitled.ipynb)  
+- ✅ Python Notebook (Project Retail Business Analysis.ipynb)  
 - ✅ Tableau Dashboard (store_sales.twbx)  
 - ✅ Final Report (Retail_Business_Analysis_Complete_Report.pdf)  
 
